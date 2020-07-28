@@ -12,3 +12,4 @@ Some highlights of this analysis are:
 * Grid search process explained with detail from scratch up to the last step. 
 * **Stacked predictive model** with prompts the average of five tunned classificatory models: Logistic Regression, ExtraTrees, Random Forest, KNN and SVC.
 * Final **normalized Gini score of 0.854** (std = 0.0071). The result has been cross-validated with a 10-fold Cross Validation algorithm.  
+![](https://github.com/dvallslanaquera/resume_davidvallslanaquera/blob/master/images/auc.jpeg)
